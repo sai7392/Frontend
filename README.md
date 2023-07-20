@@ -1,2 +1,3 @@
 # Frontend
-This repository Maintains Front Application
+This repository Maintains Front-End Application
+It Helps to Build More Static applications.
